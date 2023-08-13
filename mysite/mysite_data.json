@@ -1,0 +1,1134 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2023-07-16T17:56:13.276Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Quentin Jerome Tarantino",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2023-07-21T16:14:10.432Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Martin Charles Scorsese",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2023-07-21T16:15:58.651Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Аки́ра Куроса́ва",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2023-07-21T16:17:46.371Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Sergio Leone",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2023-07-21T16:18:50.623Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Brian De Palma",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2023-08-07T16:05:03.509Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Quentin Jerome Tarantino",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2023-08-07T16:09:23.677Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": "directors",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2023-08-07T16:09:51.696Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Quentin Jerome Tarantino",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2023-08-07T16:11:41.616Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Martin Charles Scorsese",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2023-08-07T16:11:53.938Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Аки́ра Куроса́ва",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2023-08-07T16:12:00.447Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Sergio Leone",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2023-08-07T16:12:06.384Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Brian De Palma",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2023-08-07T16:14:52.827Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "4",
+    "object_repr": "music",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2023-08-07T16:16:18.505Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Eric Patrick Clapton",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2023-08-07T16:17:49.838Z",
+    "user": 2,
+    "content_type": 9,
+    "object_id": "5",
+    "object_repr": "rock and roll",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2023-08-07T16:18:18.004Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Eric Patrick Clapton",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2023-08-10T13:36:48.414Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Markdown post",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2023-08-10T13:37:47.929Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2023-08-10T13:40:30.520Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\", \"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2023-08-10T13:40:54.152Z",
+    "user": 2,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add post",
+    "content_type": 7,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change post",
+    "content_type": 7,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete post",
+    "content_type": 7,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view post",
+    "content_type": 7,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 8,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 8,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 8,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 8,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add tag",
+    "content_type": 9,
+    "codename": "add_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change tag",
+    "content_type": 9,
+    "codename": "change_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete tag",
+    "content_type": 9,
+    "codename": "delete_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view tag",
+    "content_type": 9,
+    "codename": "view_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add tagged item",
+    "content_type": 10,
+    "codename": "add_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change tagged item",
+    "content_type": 10,
+    "codename": "change_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete tagged item",
+    "content_type": 10,
+    "codename": "delete_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view tagged item",
+    "content_type": 10,
+    "codename": "view_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add site",
+    "content_type": 11,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change site",
+    "content_type": 11,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 11,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view site",
+    "content_type": 11,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$DkfVdaPaIS1oDDAWkW5K8D$ikWJIU344Dsa7xw1lz53juT/sYd4L1sBQ6cKbyrnSHQ=",
+    "last_login": "2023-07-16T17:28:48.490Z",
+    "is_superuser": true,
+    "username": "Admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "wer@rew.ru",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-07-16T17:21:15.379Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$YLvd1Eo2N7633fslBPqOsA$c3r9dnwdVzg4npdZ78Yno9X2GKZu/bq9rJwX0YymnLQ=",
+    "last_login": "2023-08-07T16:01:19.489Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "19polushkin.dima87@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-08-07T16:00:50.672Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "blog",
+    "model": "post"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "blog",
+    "model": "comment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "taggit",
+    "model": "tag"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "taggit",
+    "model": "taggeditem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "a3z0jyfrcrlsm8mdvrjfvjf9t1onbbx8",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSE8SqEu3fsNZIYZpGogKe3K-O_apAvd3nPOfYkI21ri1nmJM4mz0OL0uyGkB9cd0B3qrcnU6rrMKHdFHrTLayN-Xg7376BAL9_apNGiyqwVo0Wdnbd-1OAskTJBk0fwDmnQmAdr2QXD4JOZckiJgSfx_gDpdDiD:1qL5Y8:L-SFTjy20k5u2qH8xHZhUgM8rLIOOpne2taRiDN0Nq4",
+    "expire_date": "2023-07-30T17:28:48.502Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "g64pqph6gsrqtsbg5uvrfcqwzjgs8dge",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hAYGEpduvcMBIZBqoYmpV0Z765NutDtf-_9lwhxW2vYOi9hyuIsQJx-txTpwW0H-R7bbZY0t3WZktwVedAur3Pm5-Vw_w5q7PVbG-8sROXQO80ZOGuyAIqdj2VQZgSN5MmXBCUhJ4fGGbSExgODGkbx_gDBojbl:1qT2fX:wSWnDIAupKxsTXxvF_EBYbw0BOkR39e_wVb21EI30FQ",
+    "expire_date": "2023-08-21T16:01:19.498Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 1,
+  "fields": {
+    "title": "Quentin Jerome Tarantino",
+    "slug": "Quentin_Jerome_Tarantino",
+    "author": 1,
+    "body": "Кве́нтин Джеро́м Таранти́но (англ. Quentin Jerome Tarantino, МФА: [ˌtærənˈtiːno]; род. 27 марта 1963 года, Ноксвилл, Теннесси, США) — американский кинорежиссёр, сценарист, продюсер и актёр. Один из наиболее ярких представителей постмодернизма в независимом кинематографе. Фильмы Тарантино отличаются нелинейной структурой повествования, переосмыслением культурно-исторического процесса, использованием готовых форм и эстетизацией насилия[2][3].",
+    "publish": "2023-07-16T17:42:44Z",
+    "created": "2023-07-16T17:56:13.267Z",
+    "updated": "2023-08-07T16:09:51.685Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "title": "Martin Charles Scorsese",
+    "slug": "martin-charles-scorsese",
+    "author": 1,
+    "body": "Ма́ртин Чарльз Скорсе́зе (англ. Martin Charles Scorsese, род. 17 ноября 1942, Куинс, Нью-Йорк, США) — американский кинорежиссёр, продюсер, сценарист и актёр.\r\n\r\nФильмам Скорсезе присущи жестокость и насилие, в кинематографических кругах он известен как мастер гангстерских лент. Огромное влияние на режиссёра оказали картины Кинга Видора, Джона Хьюстона, Майкла Пауэлла, Эмериха Прессбургера, Джона Форда, Элиа Казана, Бернардо Бертолуччи и многих других[4]. Скорсезе предпочитает не менять создателей своих проектов, постоянно работая с Робертом Де Ниро, Леонардо Ди Каприо и монтажёром Тельмой Скунмейкер.\r\n\r\nНаиболее примечательные картины режиссёра — «Злые улицы», «Таксист», «Бешеный бык», «Последнее искушение Христа», «Славные парни», «Мыс страха», «Казино», «Банды Нью-Йорка», «Авиатор», «Отступники», «Остров проклятых», «Хранитель времени», «Волк с Уолл-стрит» и «Ирландец».\r\n\r\n28 февраля 2003 года Скорсезе стал обладателем звезды на Голливудской аллее славы[5]. Он является обладателем ряда наград, включая премии «Оскар», «BAFTA», «Золотой глобус», «Эмми», «Грэмми», «Золотой пальмовой ветви», «Золотого медведя», «Сезар», «Серебряного льва» и премии Гильдии режиссёров Америки.\r\n\r\nСкорсезе неоднократно признавался одним из величайших и наиболее влиятельных кинорежиссёров современности: так, опрос, проведённый в 2010 году популярным американским журналом Paste, показал, что жители США считают Скорсезе лучшим ныне живущим режиссёром, он оставил позади Жана-Люка Годара и Стивена Спилберга[6]. Составитель официальной биографии режиссёра Винсент Лобрутто сравнивает его с ещё одной легендой мира кино — Стэнли Кубриком, «только Кубрик холоден и аналитичен, а Скорсезе — горяч и эмоционален»[7].",
+    "publish": "2023-07-21T16:12:45Z",
+    "created": "2023-07-21T16:14:10.427Z",
+    "updated": "2023-08-07T16:11:41.603Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "title": "Аки́ра Куроса́ва",
+    "slug": "akira-kurosava",
+    "author": 1,
+    "body": "Аки́ра Куроса́ва (яп. 黒澤 明 Куросава Акира, 23 марта 1910 года, Токио — 6 сентября 1998 года, там же) — японский кинорежиссёр, сценарист и продюсер. Считается одним из самых влиятельных кинорежиссёров за всю историю кино. В течение 57 лет своей творческой деятельности создал 30 фильмов. В первую очередь прославился самурайскими фильмами «Расёмон», «Семь самураев», «Трон в крови», «Три негодяя в скрытой крепости», дилогия о ронине Сандзюро («Телохранитель» и «Отважный самурай»), «Тень воина» и «Ран».\r\n\r\nКуросава по праву считается классиком японского кино, чьё творчество оказало огромное влияние не только на национальный, но и на мировой кинематограф, 7 его фильмов входят в 250 лучших фильмов по версии IMDb[3]. Его творчеством восторгались многие режиссёры, среди которых Андрей Тарковский, Джордж Лукас, Федерико Феллини и др[4][5]. За рубежом пользовался большей популярностью, чем у себя на родине.",
+    "publish": "2023-07-21T16:14:18Z",
+    "created": "2023-07-21T16:15:58.650Z",
+    "updated": "2023-08-07T16:11:53.925Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "Sergio Leone",
+    "slug": "sergio-leone",
+    "author": 1,
+    "body": "Се́рджо Лео́не (итал. Sergio Leone; 3 января 1929, Рим, Италия — 30 апреля 1989, Рим) — итальянский кинорежиссёр, сценарист, продюсер. Известен как один из основателей жанра спагетти-вестерн[3], также широко известен как один из самых влиятельных режиссеров в истории кинематографа.[4] Кинематограф Серджо Леоне оказал значительное влияние на работы многих режиссёров из разных стран. Как заметил критик, «его стилистические особенности сейчас твёрдо закреплены в словаре кинематографических клише» (his stylistic traits are now firmly entrenched in the lexicon of cinematic clichés)[10]. Дарио Ардженто, работавший с Леоне на фильме «Однажды на Диком Западе», говорил: «Серджо Леоне научил меня видеть важность конкретных, простых вещей»[11]. Леоне является одним из любимых режиссёров Джона Ву[12]. Квентин Тарантино после выхода «Убить Билла» признавался: «Мне всегда хотелось буквально процитировать Серджо Леоне ещё прежде, чем я вообще начал что-то ставить. И мои мексиканские заморочки всегда были осовремененными, но неприкрытыми версиями из фильмов Леоне. А теперь цитирую его, так сказать, по-японски»[13]. Роберт Родригес назвал один из своих фильмов «Однажды в Мексике» — очевидная аллюзия на названия фильмов итальянского режиссёра[14].",
+    "publish": "2023-07-21T16:16:01Z",
+    "created": "2023-07-21T16:17:46.364Z",
+    "updated": "2023-08-07T16:12:00.426Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "title": "Brian De Palma",
+    "slug": "brian-de-palma",
+    "author": 1,
+    "body": "Брайан Рассел Де Пальма (родился 11 сентября 1940 года) - американский кинорежиссер и сценарист. За свою карьеру, насчитывающую более 50 лет, он наиболее известен своими работами в жанрах саспенса, криминала и психологического триллера. Его фильмы включают учету кассовых хитов, таких как \"Кэрри\" (1976), одетый для убийства (1980), Лицо со шрамом (1983), Неприкасаемые (1987) и \"Миссия невыполнима\" (1996), а также культовые фавориты , такие как сестры (1972), \"призрак Рая\" (1974), задуть (1981), военные потери (1989), и Путь Карлито (1993).[1][2]\r\n\r\nДе Пальма был ведущим представителем нового голливудского поколения кинорежиссеров.[3] Его режиссура часто использует цитаты из других фильмов или кинематографических стилей и несет в себе влияние таких режиссеров, как Альфред Хичкок и Жан-Люк Годар.[3] Его работы подвергались критике за насилие и сексуальное содержание, но также были поддержаны американскими критиками, такими как Роджер Эберт и Полин Каэл.[1][4][5]",
+    "publish": "2023-07-21T16:17:48Z",
+    "created": "2023-07-21T16:18:50.618Z",
+    "updated": "2023-08-07T16:12:06.364Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "Eric Patrick Clapton",
+    "slug": "eric-patrick-clapton",
+    "author": 1,
+    "body": "Э́рик Па́трик Клэ́птон (англ. Eric Patrick Clapton; род. 30 марта 1945 года, Рипли  (англ.)рус., Суррей, Англия) — британский рок-музыкант (композитор, гитарист, вокалист). Командор ордена Британской империи (CBE).\r\n\r\nВ 1960-е годы Клэптон играл с блюз-роковыми группами John Mayall's Bluesbreakers, The Yardbirds, Cream. Позднее его музыкальный стиль со временем менялся, но он всегда держался блюзовых корней. Клэптон много работал сольно и как сессионный музыкант. Имел ироническое прозвище «медленная рука» (англ. Slowhand), которое стало названием одного из самых успешных альбомов (1977). Самым успешным синглом за всю сольную карьеру Клэптона стала кавер-версия песни «I Shot the Sheriff» ямайского музыканта Боба Марли, которая возглавила американские чарты в сентябре 1974 года. В 1993 году Клэптону присуждены премии «Грэмми» во всех самых престижных номинациях: «альбом года» (MTV Unplugged), «песня года» («Tears in Heaven») и «запись года» («Tears in Heaven»).\r\n\r\nЭрик Клэптон является одним из самых уважаемых и влиятельных рок-музыкантов. Он — единственный музыкант, который трижды включён в Зал славы рок-н-ролла: в качестве сольного исполнителя и члена рок-групп Cream и The Yardbirds. Клэптон фигурирует в переизданном журналом Rolling Stone в 2011 году списке величайших гитаристов всех времён на втором месте после Джими Хендрикса[5]. В предыдущей версии списка он занимал четвёртое место после Хендрикса, Дуэйна Оллмэна и Би Би Кинга. Также фигурирует в составленном тем же журналом списке величайших исполнителей всех времён — и как сольный исполнитель, и как участник групп Cream и The Yardbirds.",
+    "publish": "2023-08-07T16:15:13Z",
+    "created": "2023-08-07T16:16:18.491Z",
+    "updated": "2023-08-07T16:18:17.992Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 7,
+  "fields": {
+    "title": "Markdown post",
+    "slug": "markdown-post",
+    "author": 1,
+    "body": "This is a post formatted with markdown\r\n--------------------------------------\r\n*This is emphasized* and **this is more emphasized**.\r\nHere is a list:\r\n\r\n* One\r\n* Two\r\n* Three\r\n\r\nAnd a [link to the Django website](https://www.djangoproject.com/).",
+    "publish": "2023-08-10T13:22:52Z",
+    "created": "2023-08-10T13:36:48.388Z",
+    "updated": "2023-08-10T13:40:54.141Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 1,
+  "fields": {
+    "post": 5,
+    "name": "Dima Polushkin",
+    "email": "19polushkin.dima87@gmail.com",
+    "body": "oh, my God...",
+    "created": "2023-08-03T09:30:48.775Z",
+    "updated": "2023-08-03T09:30:48.775Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 2,
+  "fields": {
+    "post": 5,
+    "name": "Dima Polushkin",
+    "email": "19polushkin.dima87@gmail.com",
+    "body": "Er ist eine wahre Legende",
+    "created": "2023-08-03T09:32:33.602Z",
+    "updated": "2023-08-03T09:32:33.602Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 3,
+  "fields": {
+    "post": 1,
+    "name": "Dima Polushkin",
+    "email": "19polushkin.dima87@gmail.com",
+    "body": "oh, yes, man...",
+    "created": "2023-08-10T09:48:55.349Z",
+    "updated": "2023-08-10T09:48:55.349Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 4,
+  "fields": {
+    "post": 1,
+    "name": "Dima Polushkin",
+    "email": "19polushkin.dima87@gmail.com",
+    "body": "oh, yes, man...",
+    "created": "2023-08-10T09:49:03.910Z",
+    "updated": "2023-08-10T09:49:03.910Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 5,
+  "fields": {
+    "post": 1,
+    "name": "Dima Polushkin",
+    "email": "19polushkin.dima87@gmail.com",
+    "body": "kill bill!!! kill bill!!",
+    "created": "2023-08-10T09:49:41.742Z",
+    "updated": "2023-08-10T09:49:41.742Z",
+    "active": true
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "django",
+    "slug": "django"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 2,
+  "fields": {
+    "name": "cinema",
+    "slug": "cinema"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 3,
+  "fields": {
+    "name": "directors",
+    "slug": "directors"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 4,
+  "fields": {
+    "name": "music",
+    "slug": "music"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 5,
+  "fields": {
+    "name": "rock and roll",
+    "slug": "rock-and-roll"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 6,
+  "fields": {
+    "name": "markdown",
+    "slug": "markdown"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 2,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 3,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 4,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 5,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 6,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 7,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 8,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 4
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 9,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 4
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 10,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 11,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 12,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 6
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 13,
+  "fields": {
+    "tag": 5,
+    "content_type": 7,
+    "object_id": 6
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 14,
+  "fields": {
+    "tag": 6,
+    "content_type": 7,
+    "object_id": 7
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 1,
+  "fields": {
+    "domain": "example.com",
+    "name": "example.com"
+  }
+}
+]
